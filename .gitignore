@@ -1,0 +1,9 @@
+
+*.vsidx
+*.lock
+.vs/TetrisGUI/v17/.suo
+*.config
+*.dll
+*.xml
+*.exe
+*.pdb

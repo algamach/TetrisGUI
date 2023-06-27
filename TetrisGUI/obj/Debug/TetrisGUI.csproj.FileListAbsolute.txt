@@ -1,0 +1,11 @@
+C:\Users\f-gal\OneDrive\Документы\GitHub\TetrisGUI\TetrisGUI\bin\Debug\TetrisGUI.exe.config
+C:\Users\f-gal\OneDrive\Документы\GitHub\TetrisGUI\TetrisGUI\bin\Debug\TetrisGUI.exe
+C:\Users\f-gal\OneDrive\Документы\GitHub\TetrisGUI\TetrisGUI\bin\Debug\TetrisGUI.pdb
+C:\Users\f-gal\OneDrive\Документы\GitHub\TetrisGUI\TetrisGUI\obj\Debug\TetrisGUI.csproj.AssemblyReference.cache
+C:\Users\f-gal\OneDrive\Документы\GitHub\TetrisGUI\TetrisGUI\obj\Debug\TetrisGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\f-gal\OneDrive\Документы\GitHub\TetrisGUI\TetrisGUI\obj\Debug\TetrisGUI.csproj.CoreCompileInputs.cache
+C:\Users\f-gal\OneDrive\Документы\GitHub\TetrisGUI\TetrisGUI\obj\Debug\TetrisGUI.exe
+C:\Users\f-gal\OneDrive\Документы\GitHub\TetrisGUI\TetrisGUI\obj\Debug\TetrisGUI.pdb
+C:\Users\f-gal\OneDrive\Документы\GitHub\TetrisGUI\TetrisGUI\bin\Debug\SmallBasicLibrary.dll
+C:\Users\f-gal\OneDrive\Документы\GitHub\TetrisGUI\TetrisGUI\bin\Debug\SmallBasicLibrary.xml
+C:\Users\f-gal\OneDrive\Документы\GitHub\TetrisGUI\TetrisGUI\obj\Debug\TetrisGUI.csproj.CopyComplete
